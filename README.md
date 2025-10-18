@@ -82,7 +82,7 @@ Após iniciar, a aplicação estará disponível em:
 ```json
 {
   "nome": "Retirar lixo",
-  "dataEntrega": "2025-10-18",
+  "dataEntrega": "18/10/2025",
   "responsavel": "Uilson Vasconcelos"
 }
 ```

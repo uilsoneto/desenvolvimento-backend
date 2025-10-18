@@ -1,4 +1,3 @@
-Perfeito 👌 — aqui está uma **versão melhorada e formatada** do seu texto, transformada em um **README.md profissional**, clara e bem estruturada para entrega acadêmica:
 
 ---
 
@@ -98,7 +97,5 @@ Professora: **Luciane Kanashiro, Me**
 
 ```
 
----
 
-Deseja que eu adicione também uma seção opcional com **instruções de teste via Postman** (com exemplos prontos de cada requisição)? Isso ajuda a ganhar ponto na parte de “Evidências de testes”.
 ```
